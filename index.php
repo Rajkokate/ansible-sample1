@@ -1,9 +1,1 @@
-<?php
-
-<pre>
-
-print_r($_SERVER);
-  
-</pre>
-
-?>
+hello hiii
